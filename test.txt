@@ -1,1 +1,4 @@
-sadcfvgb
+
+ git push -u origin main
+git commit -m "main"
+git push origin main
